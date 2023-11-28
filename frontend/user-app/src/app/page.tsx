@@ -1,3 +1,5 @@
+import { MainPage } from "../layouts/MainPage";
+
 export default function Home() {
-  return <main></main>;
+  return <MainPage></MainPage>;
 }
